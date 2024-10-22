@@ -4,7 +4,7 @@
 * Source control by azure devops.
 
 프로젝트명 : Colosseum Battle  
-개발 기간 : 4개월  
+개발 기간 : 2020.05 ~ 2020.10 (4개월)  
 개발 환경 : C++ / Unreal Engine 4 / Azure DevOps  
 개발 인원 : 1명  
 URL Video : https://youtu.be/pyPxxSHCPiw   
